@@ -2,9 +2,12 @@
 <table style="margin-left:auto;margin-right:auto;">
 <tr>
 <td>
+
 ![双龙规则](https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/604d1a8dly1hhgvzibjsrj20u055okjl.jpg)
+
 </td>
 <td>
+
 # 有炸起炸，癞子有炸落炸上。  
 
 # (如牌组为杠，则只判定起杠的4张)  
