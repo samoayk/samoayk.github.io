@@ -2,11 +2,9 @@
 <table style="margin-left:auto;margin-right:auto;">
 <tr>
 <td>
-< ![双龙规则](https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/604d1a8dly1hhgvzibjsrj20u055okjl.jpg) >
-左侧
+![双龙规则](https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/604d1a8dly1hhgvzibjsrj20u055okjl.jpg)
 </td>
 <td>
-<
 # 有炸起炸，癞子有炸落炸上。  
 
 # (如牌组为杠，则只判定起杠的4张)  
@@ -49,8 +47,6 @@ KKK刻子牌组 + 大点数的刻子牌组 + 大点数的对子。
 两个刻子牌组的点数相邻
 ### 双暗组x2倍
 两个牌组都是自摸形成，没有吃/碰/明杠
->
-右侧
 </td>
 <tr>
 </html>
