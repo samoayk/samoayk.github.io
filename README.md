@@ -1,4 +1,4 @@
-![双龙规则](https://github.com/samoayk/samoayk.github.io/blob/main/pic/%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB%20%E5%8F%8C%E9%BE%99.jpg)
+![双龙规则](https://image.baidu.com/search/down?url=https://wx3.sinaimg.cn/mw690/604d1a8dly1hhgvzibjsrj20u055okjl.jpg)
 # 有炸起炸，癞子有炸落炸上。  
 
 # (如牌组为杠，则只判定起杠的4张)  
