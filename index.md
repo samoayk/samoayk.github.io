@@ -5,7 +5,7 @@
 ---
 ---
 
-#### <center> <a href="http://https://samoa.lanzouy.com/b01rgbcib/">tailscale+nplayer</a>
+#### <center> <a href="https://samoa.lanzouy.com/b01rgbcib/">tailscale+nplayer</a>
 ---
 ---
 
