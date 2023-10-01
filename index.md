@@ -5,7 +5,7 @@
 ---
 ---
 
-#### <center> tailscale+npalyer [珍稀app下载](https://samoa.lanzouy.com/b01rgbcib)。
+#### <center> <https://samoa.lanzouy.com/b01rgbcib>
 ---
 ---
 
