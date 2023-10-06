@@ -5,6 +5,10 @@
 ---
 ---
 
+#### <center> <a href="samoayk.github.io/DK.html">WOW<3.35PVE>输出宏(邪冰/传染冰/传染血)</a>
+---
+---
+
 #### <center> <a href="https://samoa.lanzouy.com/b01rgbcib/">tailscale+nplayer</a>
 ---
 ---
