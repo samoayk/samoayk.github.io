@@ -5,6 +5,6 @@
 ---
 ## <center> <a href="WOW/<3.35PVE>输出宏(邪冰、传染冰、传染血).html">WLKDK输出宏(邪冰/传染冰/传染血)</a>
 ---
-## <center> <a href="WOW/WLK德鲁伊指南.md">WLK德鲁伊三系指南</a>
+## <center> [WLK德鲁伊三系指南](https://www.jianshu.com/p/401d61121206?v=1696653383774)
 ---
 ## <center> <a href="Other/hlddz·slp.md">欢乐斗地主·双龙牌</a>
