@@ -7,4 +7,4 @@
 ---
 ## <center> <a href="WOW/WLK德鲁伊指南.md">WLK德鲁伊三系指南</a>
 ---
-## <center> [斗地主、双龙牌](Other/slp.md)
+## <center> <a href="Other/hlddz·slp.md">欢乐斗地主·双龙牌</a>
