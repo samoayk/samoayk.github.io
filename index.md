@@ -7,6 +7,6 @@
 ---
 ## <center> [WLK德鲁伊三系指南](https://www.jianshu.com/p/401d61121206?v=1696653383774)
 ---
-## <center> [欢乐斗地主·双龙牌](https://www.jianshu.com/p/05c9205ba2aa?v=1696653519846)
+[欢乐斗地主·双龙牌](https://www.jianshu.com/p/05c9205ba2aa?v=1696653519846)
 ---
 This site was built using [GitHub Pages](https://pages.github.com/).
