@@ -131,7 +131,8 @@
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
+/use 14
+```
 4. 断疾病后的补病循环  
 ```
 #showtooltip
