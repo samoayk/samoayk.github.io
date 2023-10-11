@@ -31,7 +31,8 @@
 ```
 - 这个宏仅在起手时使用一次，一路按到底，到按不动为止。
 2. 标准循环：  
-    `#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 暗影打击,冰冷触摸,鲜血打击,天灾打击,鲜血打击,天灾打击,鲜血打击,天灾打击,鲜血打击
 /cast !符文打击
@@ -40,7 +41,7 @@
 /use 13
 /use 14
 /cast 血性狂怒
-`
+```
 - 无限点这个宏，把凋零缠绕放在这个宏旁边方便看时机扔。
 
 #### 原理如下：
@@ -52,12 +53,13 @@
 ### AOE输出：
 
 - 宏  
-	 `#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 暗影打击,冰冷触摸,传染,!枯萎凋零,天灾打击,鲜血打击,天灾打击,血液沸腾
 /cast [button:2]!符文打击
 /petattack
-`
+```
 - 无限点这个宏，把凋零缠绕放在这个宏旁边方便看时机扔。
 
 #### 原理如下：
@@ -88,33 +90,40 @@
 
 ### 宏：
 - 冰打宏(请将这个宏用来代替你的冰霜打击技能)  
-	`#showtooltip
+```
+#showtooltip
 /cancelaura 活力分流
 /cast 冰霜打击
-/cast !符文打击`
+/cast !符文打击
+```
 
 #### 第一种
 
 1. 起手  
-	`#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=60/combat 冰冷触摸,暗影打击,铜墙铁壁,活力分流,湮没,传染,符文武器增效,湮没,湮没,冰霜打击,湮没,亡者复生,符文武器增效
 /cast 血性狂怒
 /use 10
 /use 13
 /use 14
-/use 速度药水`
-2. 正常循环  
-	`#showtooltip
+/use 速度药水
+```
+3. 正常循环  
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 湮没,湮没,冰霜打击,鲜血打击,传染,湮没,湮没,冰霜打击,湮没,湮没,湮没,冰霜打击,鲜血打击,传染,湮没,湮没,冰霜打击,湮没,鲜血灵气
 /cast !符文打击
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
-3. 插入铜墙铁壁  
-	`#showtooltip
+/use 14
+```
+5. 插入铜墙铁壁  
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 湮没,湮没,冰霜打击,鲜血打击,传染,湮没,湮没,冰霜打击,铜墙铁壁,活力分流,湮没,鲜血灵气
 /cast !符文打击
@@ -122,7 +131,7 @@
 /use 10
 /use 13
 /use 14`
-4. 断疾病后的补病循环  
+7. 断疾病后的补病循环  
 	`#showtooltip
 /startattack
 /castsequence reset=7/combat/target 冰冷触摸,暗影打击,湮没,冰霜打击,鲜血打击,传染,冰霜打击,湮没,湮没,冰霜打击,湮没,鲜血灵气
@@ -130,46 +139,55 @@
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
+/use 14
+```
 
 #### 第二种
 
 1. 起手  
-	`#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=60/combat 冰冷触摸,暗影打击,活力分流,铜墙铁壁,冰霜打击,湮没,传染,亡者复生,冰霜打击,符文武器增效,符文武器增效
 /cast 血性狂怒
 /use 10
 /use 13
 /use 14
-/use 速度药水`
+/use 速度药水
+```
 2. 正常循环  
-	`#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 湮没,湮没,湮没,湮没,湮没,鲜血打击,传染,湮没,湮没,湮没,湮没,湮没,鲜血打击,传染,鲜血灵气
 /cast !符文打击
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
-3. 插入铜墙铁壁  
-	`#showtooltip
+/use 14
+```
+4. 插入铜墙铁壁  
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 湮没,湮没,湮没,湮没,湮没,冰霜打击,活力分流,铜墙铁壁,传染,鲜血灵气
 /cast !符文打击
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
-4. 断疾病后的补病循环  
-	`#showtooltip
+/use 14
+```
+5. 断疾病后的补病循环  
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat/target 冰冷触摸,暗影打击,湮没,鲜血打击,传染,鲜血灵气
 /cast !符文打击
 /cast 血性狂怒
 /use 10
 /use 13
-/use 14`
+/use 14
+```
 
 ## 传染血：
 
@@ -179,17 +197,22 @@
 ### 宏
 
 1. 起手  
-	`#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 冰冷触摸,暗影打击,灵界打击,亡者复生,寒冬号角,心脏打击,心脏打击,凋零缠绕,灵界打击,心脏打击,心脏打击,凋零缠绕,心脏打击,传染,鲜血灵气
 /use 10
 /use 13
 /use 14
-/cast 血性狂怒`
-2. 正常循环  
-	`#showtooltip
+/cast 血性狂怒
+```
+3. 正常循环  
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat 心脏打击,心脏打击,灵界打击,凋零缠绕,心脏打击,心脏打击,凋零缠绕,灵界打击,心脏打击,心脏打击,凋零缠绕,心脏打击,传染,心脏打击,心脏打击,灵界打击,凋零缠绕,心脏打击,心脏打击,凋零缠绕,灵界打击,心脏打击,心脏打击,寒冬号角,心脏打击,传染
 /use 10
 /use 13
-/use 14`
+/use 14
+```
+
