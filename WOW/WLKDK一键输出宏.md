@@ -133,7 +133,8 @@
 /use 13
 /use 14`
 4. 断疾病后的补病循环  
-	`#showtooltip
+```
+#showtooltip
 /startattack
 /castsequence reset=7/combat/target 冰冷触摸,暗影打击,湮没,冰霜打击,鲜血打击,传染,冰霜打击,湮没,湮没,冰霜打击,湮没,鲜血灵气
 /cast !符文打击
