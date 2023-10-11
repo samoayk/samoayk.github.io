@@ -30,6 +30,7 @@
 /cast 血性狂怒
 ```
 - 这个宏仅在起手时使用一次，一路按到底，到按不动为止。
+
 2. 标准循环：  
 ```
 #showtooltip
@@ -110,7 +111,7 @@
 /use 14
 /use 速度药水
 ```
-3. 正常循环  
+2. 正常循环  
 ```
 #showtooltip
 /startattack
@@ -121,7 +122,7 @@
 /use 13
 /use 14
 ```
-5. 插入铜墙铁壁  
+3. 插入铜墙铁壁  
 ```
 #showtooltip
 /startattack
@@ -131,7 +132,7 @@
 /use 10
 /use 13
 /use 14`
-7. 断疾病后的补病循环  
+4. 断疾病后的补病循环  
 	`#showtooltip
 /startattack
 /castsequence reset=7/combat/target 冰冷触摸,暗影打击,湮没,冰霜打击,鲜血打击,传染,冰霜打击,湮没,湮没,冰霜打击,湮没,鲜血灵气
@@ -166,7 +167,7 @@
 /use 13
 /use 14
 ```
-4. 插入铜墙铁壁  
+3. 插入铜墙铁壁  
 ```
 #showtooltip
 /startattack
@@ -177,7 +178,7 @@
 /use 13
 /use 14
 ```
-5. 断疾病后的补病循环  
+4. 断疾病后的补病循环  
 ```
 #showtooltip
 /startattack
@@ -206,7 +207,7 @@
 /use 14
 /cast 血性狂怒
 ```
-3. 正常循环  
+2. 正常循环  
 ```
 #showtooltip
 /startattack
