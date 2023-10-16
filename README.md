@@ -1,5 +1,6 @@
 # <center>“所有的记忆都是潮湿的”
 ## [tailscale+nplayer](https://samoa.lanzouy.com/b01rgbcib/)
+## [过秦论](其他/过秦论.md)
 ## [春江花月夜](其他/春江花月夜.md)
 ## [四大名楼](其他/四大名楼/汇总.md)
 ## [WLK·字符串插件](WOW/插件-字符串.md)
