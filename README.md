@@ -4,6 +4,7 @@
 ##### 而我一下子明白了，什么叫离开。
 ------
 ## [tailscale+nplayer](https://samoa.lanzouy.com/b01rgbcib/)
+## https://www.jianshu.com/p/562297c3b4dc
 ## [过秦论](其他/过秦论.md)
 ## [春江花月夜](其他/春江花月夜.md)
 ## [四大名楼](其他/四大名楼/汇总.md)
