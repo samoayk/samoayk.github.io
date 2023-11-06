@@ -4,6 +4,7 @@
 ##### 而我一下子明白了，什么叫离开。
 ------
 ## [tailscale+nplayer](https://samoa.lanzouy.com/b01rgbcib/)
+## [宝宝学唐诗](其他/宝宝学唐诗.md)
 ## [VMWare·虚拟机](其他/vmware.com.md)
 ## [过秦论](其他/过秦论.md)
 ## [春江花月夜](其他/春江花月夜.md)
