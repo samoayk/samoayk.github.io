@@ -6,20 +6,17 @@
 4. 启动Telnet+启动SSH功能：全部打钩
 ## 登录群晖SSh
 1. Putty登录
-  1. IP地址
-  1. 进入后输入管理员账号
-  1. 输入管理员密码
-  1. 进入root模式：```sudo -i```
-  2. 再次输入管理员密码
-1. 在 Windows 10、macOS 或 Linux 上登录
-  1.在计算机上启动终端应用程序：
-    - Windows 10：Windows PowerShell
-    - macOS：Terminal.app
-    - Linux：终端
-   1. 键入以下命令并按 Enter 键： ssh XX@10.17.2.6 -p 22
-   2. 输入 DSM/SRM 管理员帐户的密码。
-   3. 键入 sudo -i 并按 Enter 键。
-   4. 再次输入 DSM/SRM 管理员帐户的密码并按 Enter 键。
+   1. IP地址
+   2. 进入后输入管理员账号
+   3. 输入管理员密码
+   4. 进入root模式：```sudo -i```
+   5. 再次输入管理员密码
+2. 在 Windows 10、macOS 或 Linux 上登录
+   1. 启动Windows 10：Windows PowerShell/macOS：Terminal.app/Linux：终端
+   2. 键入以下命令并按 Enter 键： ssh XX@10.17.2.6 -p 22
+   3. 输入 DSM/SRM 管理员帐户的密码。
+   4. 键入 sudo -i 并按 Enter 键。
+   5. 再次输入 DSM/SRM 管理员帐户的密码并按 Enter 键。
 ## 修改群晖磁盘及NTFS磁盘比例  
 1. 输入：```vi /etc.defaults/synoinfo.conf```
 2. 输入：i
