@@ -6,7 +6,7 @@
 4. 启动Telnet+启动SSH功能：全部打钩
 ## 登录群晖SSh
 1. 启动Windows PowerShell/Terminal.app/终端
-2. 键入以下命令并按 Enter 键：```ssh XX@10.17.2.6 -p 22```
+2. 键入以下命令并按 Enter 键：```ssh s@192.168.21.178 -p 22```
 3. 输入 DSM/SRM 管理员帐户的密码。
 4. 键入```sudo -i```并按 Enter 键。
 5. 再次输入 DSM/SRM 管理员帐户的密码并按 Enter 键。
