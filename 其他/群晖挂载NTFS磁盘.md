@@ -24,7 +24,8 @@
 ## 修改群晖磁盘及NTFS磁盘比例  
 1. 输入：```vi /etc.defaults/synoinfo.conf```
 2. 输入：```i```
-1. 按图2修改图1红圈部分数据（磁盘数量对应群晖显示的磁盘排序）<a id="pic1"></a>
+1. 按图2修改图1红圈部分数据（磁盘数量对应群晖显示的磁盘排序）  
+<a id="pic1"></a>
 ![图1](https://wp.gxnas.com/wp-content/uploads/2018/07/20180222150454_98932.png)
 ![图2](https://wp.gxnas.com/wp-content/uploads/2018/07/20180222150454_21862.png)
 ## 改完后保存，退出重启群晖
