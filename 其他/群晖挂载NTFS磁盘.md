@@ -6,7 +6,7 @@
 ## Two  
 于是有不少网友就问博主：在DSM7.X怎样识别NTFS？
 ### 操作方法有两种，选择任意一个都可以：  
->第一种：先按照_[本页图片](#pic1)_计算出esataportcfg和internalportcfg两个参数对应的值，然后把参数写入user_config.json，重新编译DSM7.X的引导文件，用新的引导文件启动，就可以正常识别NTFS硬盘了。  
+>第一种：先按照[本页图片](#pic1)计算出esataportcfg和internalportcfg两个参数对应的值，然后把参数写入user_config.json，重新编译DSM7.X的引导文件，用新的引导文件启动，就可以正常识别NTFS硬盘了。  
 >第二种：如果你不会编译引导，可以用。---先不做引用（感觉不够牛逼）
 
 # DS3617+ 6.23
