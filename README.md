@@ -3,7 +3,7 @@
 ##### 离开，在字典的解释是和某一个人或某一个敌方分开；
 ##### 而我一下子明白了，什么叫离开。
 ------
-## ZZ:[tailscale+nplayer](https://samoa.lanzouy.com/b01rgbcib/)
+## ZZ:[nPlayer_v1.7.7.7_191219_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [群晖下载](https://archive.synology.com/download)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
 ## [宝宝学唐诗](其他/宝宝学唐诗.md)
