@@ -4,6 +4,8 @@
 ##### 而我一下子明白了，什么叫离开。
 ------
 ## [tailscale+nplayer](https://samoa.lanzouy.com/b01rgbcib/)
+## [群晖下载](https://archive.synology.com/download)
+## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
 ## [宝宝学唐诗](其他/宝宝学唐诗.md)
 ## [宝宝学汉字](其他/宝宝学汉字.md)
 ## [群晖查看空间占用](其他/群晖查看空间占用.md)
