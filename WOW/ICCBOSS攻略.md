@@ -1,4 +1,4 @@
-![image](https://github.com/samoayk/samoayk.github.io/assets/74447997/929d6611-8206-440a-b187-0a2f91f589df)# ICC BOSS技能回顾  
+# ICC BOSS技能回顾  
 ## [1·玛洛加尔领主](#老一玛洛加尔领主)  
 ## [2·亡语女王](#ICC的第二个BOSS，亡语女王)  
 ## [3·炮艇](#ICC老3BOSS炮艇)  
