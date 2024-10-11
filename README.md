@@ -6,7 +6,7 @@
 ## 密码：“ZZ”   [nPlayer_v1.7.7.7_191219_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [群晖下载](https://archive.synology.com/download)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
-## [总结食谱](其他/各种食谱.md)
+## [VM磁盘清理](其他/VM磁盘清理.md)
 ## [宝宝学唐诗](其他/宝宝学唐诗.md)
 ## [宝宝学汉字](其他/宝宝学汉字.md)
 ## [群晖查看空间占用](其他/群晖查看空间占用.md)
