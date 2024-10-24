@@ -4,7 +4,7 @@
 ##### 而我一下子明白了，什么叫离开。
 ------
 ## 《TVBOX》线路：[云星日记](https://itvbox.cc/)
-## 密码：“ZZ”   [nPlayer_v1.7.7.7_191219_apk](https://samoa.lanzouy.com/b01rgbcib/)
+## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [群晖下载](https://archive.synology.com/download)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
 ## [VM磁盘清理](其他/VM磁盘清理.md)
