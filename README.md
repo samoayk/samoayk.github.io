@@ -3,7 +3,7 @@
 ##### 离开，在字典的解释是和某一个人或某一个敌方分开；
 ##### 而我一下子明白了，什么叫离开。
 ------
-## 《TVBOX》线路：[云星日记](https://itvbox.cc/)
+## 《TVBOX》线路：[饭太太硬](https://www.饭太硬.com)[肥猫肥猫](https://肥猫.com)[云星日记](https://itvbox.cc/)
 ## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [群晖下载](https://archive.synology.com/download)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
