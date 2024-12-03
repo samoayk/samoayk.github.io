@@ -4,17 +4,8 @@
 ##### 而我一下子明白了，什么叫离开。
 ------
 ## 《TVBOX》线路：[饭太太硬](https://www.饭太硬.com)   [肥猫肥猫](https://肥猫.com)   [云星日记](https://itvbox.cc/)
-## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [宝宝学唐诗](其他/宝宝学唐诗.md)
 ## [宝宝学汉字](其他/宝宝学汉字.md)
-## [过秦论](其他/过秦论.md)
-## [春江花月夜](其他/春江花月夜.md)
-## [四大名楼](其他/四大名楼/汇总.md)
-## [VM磁盘清理](其他/VM磁盘清理.md)
-## [VMWare·虚拟机](其他/vmware.com.md)
-## [其他/DSM7.2 黑群晖安装教程](其他/黑群晖安装教程.md)
-## [群晖下载](https://archive.synology.com/download)
-## [群晖查看空间占用](其他/群晖查看空间占用.md)
-## [群晖挂载NTFS磁盘](其他/群晖挂载NTFS磁盘.md)
-## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
+## [科技改变生活](technology.md)
+## [文艺予我力量](Renaissance.md)
 ```成功只是比失败多走了一步而已，坚持自己的梦想，永不言弃!```
