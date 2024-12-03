@@ -8,3 +8,6 @@
 ## [群晖查看空间占用](其他/群晖查看空间占用.md)
 ## [群晖挂载NTFS磁盘](其他/群晖挂载NTFS磁盘.md)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
+
+# 软件
+## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
