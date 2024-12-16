@@ -5,3 +5,6 @@
 ## [WLK·猎人一键输出](WOW/猎人一键输出.md)
 ## [WLK·火法指南](WOW/WLK火法指南.md)
 ## [WLK·ICC BOSS攻略](WOW/ICCBOSS攻略.md)
+
+# 信长之野望资料库
+## [WLK·字符串插件](WOW/插件-字符串.md)
