@@ -1,5 +1,4 @@
 ## [GitHub下载加速](https://gh.api.99988866.xyz/)
-## [黑群晖将USB外接硬盘识别为内置硬盘](https://zhuanlan.zhihu.com/p/673845639)
 
 # 虚拟机
 ## [VM磁盘清理](其他/VM磁盘清理.md)
