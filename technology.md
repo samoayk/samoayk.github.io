@@ -12,5 +12,8 @@
 ## [Tailscale在DSM7的群晖ISCSI及同步修复](其他/ISCSI修复.md)
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
 
+# Windows
+## [文件服务器：win10开启NFS](其他/win10开启NFS.md)
+
 # 软件
 ## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
