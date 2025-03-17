@@ -17,3 +17,4 @@
 
 # 软件
 ## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
+## [开源阅读](https://gedoor.github.io/)  [APP下载地址](https://github.com/gedoor/legado/releases/tag/3.25)
