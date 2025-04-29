@@ -15,6 +15,9 @@
 # Windows
 ## [文件服务器：win10开启NFS](其他/win10开启NFS.md)
 
+# 路由器
+## [路由器信号满网络不好解决办法](其他/路由器信道.md)
+
 # 软件
 ## 密码：“ZZ”   [nPlayer_v1.7_apk](https://samoa.lanzouy.com/b01rgbcib/)
 ## [开源阅读](https://gedoor.github.io/)“清爽简单无广告的阅读”[APP下载地址](https://github.com/gedoor/legado/releases/tag/3.25)
