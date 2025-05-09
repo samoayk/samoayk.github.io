@@ -5,6 +5,7 @@
 ------
 ## 《TVBOX》线路：[饭太太硬](https://www.饭太硬.com)   [肥猫肥猫](https://肥猫.com)   [云星日记](https://itvbox.cc/)
 ## [宝宝学唐诗](其他/宝宝学唐诗.md)
+## [阅读使人明理](abstract.md)
 ## [科技改变生活](technology.md)
 ## [文艺予我力量](Renaissance.md)
 ```成功只是比失败多走了一步而已，坚持自己的梦想，永不言弃!```
