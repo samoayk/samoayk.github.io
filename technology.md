@@ -19,7 +19,7 @@
 ## [路由器信号满网络不好解决办法](其他/路由器信道.md)
 
 # 软件
-## 以下所有 密码 ：“ZZ”
+## 以下所有（因蓝奏云要求，安卓浏览器无法下载，需PC下载或者安卓浏览器更改标识为PC）密码 ：“ZZ” 
 ## [开源阅读](其他/源/阅读源.md)“清爽简单无广告的阅读”[legado_app_3.25.06061200.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 ## [我的听书](其他/源/听书源.md)“各种听书、小说、相声等”[tingshu_v2.5.6.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
 ## [影视仓](其他/源/TVbox源.md)“电视安装看电影、电视剧、综艺”[影视仓电视版6.1.2-exo1.6.1.apk下载地址](https://samoa.lanzouy.com/b01rgbcib/)
