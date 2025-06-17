@@ -13,6 +13,7 @@
 ## [tailscale下载](https://pkgs.tailscale.com/stable/#spks)
 
 # Windows
+## [硬盘属性&U盘“文件或目录损坏且无法读取”修复](其他/硬盘属性&U盘“文件或目录损坏且无法读取”修复.md)
 ## [文件服务器：win10开启NFS](其他/win10开启NFS.md)
 
 # 路由器
