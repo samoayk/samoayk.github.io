@@ -8,7 +8,7 @@
 ## [WLK·德鲁伊三系指南](WOW/WLK德鲁伊指南.md)
 ## [WLK·猎人一键输出](WOW/猎人一键输出.md)
 ## [WLK·火法指南](WOW/WLK火法指南.md)
-## [WLK·奶萨指南](WOW/激流的指引：WLK Classic 恢复萨满指南 - Circle 阅读助手.md)
+## [WLK·奶萨指南](WOW/恢复萨满指南.md)
 ## [WLK·ICC BOSS攻略](WOW/ICCBOSS攻略.md)
 
 # 信长之野望资料库
